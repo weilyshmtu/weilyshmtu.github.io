@@ -14,7 +14,7 @@ title: Lai Wei's publications
 <u>Lab Member</u>; &dagger;: Co-first authors; &sect;: Corresponding or co-corresponding authors.
 
 ### Preprint
-<ol start="4"> <li> Taylor, L., <b>Yang, Y.</b>, Harigaya, Y., Ulirsch, J., Sankaran, V., Hu, M., Reiner, A., Raffield, L., Wen, J., Li, Y. (2021+) Super interactive promoters provide insight into cell type-specific regulatory networks in blood lineage cell types. <i><b>bioRxiv</b></i>. <<a href="https://doi.org/10.1101/2021.03.15.435494">link</a>></li></ol>
+<ol > <li> <b>Lai, Wei</b>, Fenfen Ji, Hao Liu, Rigui Zhou, Changming Zhu, Xiafen Zhang (2021) Subspace Clustering via Structured Sparse Relation Representation. <i><b>IEEE Transactions on Neural Networks and Learning Systems</b></i>. <<a href="https://doi.org/10.1109/TNNLS.2021.3059511">link</a>></li></ol>
 
 <!--
 <ol start="3"> <li> Rosen, J., <b>Yang, Y.</b>, Abnousi, A., Chen, J., Song, M., Jones, I., Shen, Y., Hu, M., Li, Y. (2021+) HPRep: Quantifying reproducibility in HiChIP and PLAC-seq datasets. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.23.394239v1">link</a>></li></ol>
