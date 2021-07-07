@@ -8,9 +8,9 @@ title: Lai Wei's publications
 <u>Lab Member</u>; &dagger;: Corresponding authors.
 
 ### Journal
-<ol > <li> <b>Lai, Wei</b>, Fenfen Ji, Hao Liu, Rigui Zhou, Changming Zhu, Xiafen Zhang (2021) Subspace Clustering via Structured Sparse Relation Representation. <i><b>IEEE Transactions on Neural Networks and Learning Systems</b></i>, <<a href="https://doi.org/10.1109/TNNLS.2021.3059511">link</a>></li></ol>
+<ol start="3"> <li> <b>Lai, Wei</b>, Fenfen Ji, Hao Liu, Rigui Zhou, Changming Zhu, Xiafen Zhang (2021) Subspace Clustering via Structured Sparse Relation Representation. <i><b>IEEE Transactions on Neural Networks and Learning Systems</b></i>, <<a href="https://doi.org/10.1109/TNNLS.2021.3059511">link</a>></li></ol>
 
-<ol > <li> Xiaobo Xiao, <b>Lai, Wei<sup>&dagger;</sup></b> (2020) Robust Subspace Clustering via Latent Smooth Representation Clustering. <i><b>Neural Processing Letters</b></i>, 52: 1317–1337.</li></ol>
+<ol start="3"> <li> Xiaobo Xiao, <b>Lai, Wei<sup>&dagger;</sup></b> (2020) Robust Subspace Clustering via Latent Smooth Representation Clustering. <i><b>Neural Processing Letters</b></i>, 52: 1317–1337.</li></ol>
 
 <!--
 <ol start="3"> <li> Rosen, J., <b>Yang, Y.</b>, Abnousi, A., Chen, J., Song, M., Jones, I., Shen, Y., Hu, M., Li, Y. (2021+) HPRep: Quantifying reproducibility in HiChIP and PLAC-seq datasets. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.23.394239v1">link</a>></li></ol>
