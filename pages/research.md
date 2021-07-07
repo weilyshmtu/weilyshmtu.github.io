@@ -2,7 +2,7 @@
 layout: page
 title: Lai Wei's feature researches
 ---
-
+<!-->
 ### Aggregated Clustering Method for Single-cell RNA-seq Data
 
 I developed SAFE-clustering and SAME-clustering, a flexible, accurate and robust method for single-cell aggregated (From Ensemble) clustering. SAFE and SAME both build a consensus clustering solution from solutions of multiple types of individual clustering methods, including SC3, CIDR, Seurat and t-SNE + k-means. SAFE performs ensemble clustering using three hypergraph-based partitioning algorithms, and SAME applies EM algorithm in ensemble step.
