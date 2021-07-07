@@ -24,7 +24,10 @@ title: Lai Wei's publications
 
 <ul> <li> <b>Lai, Wei</b> Rigui Zhou, Jun Yin, Changming Zhu, Xiafen Zhang, Hao Liu (2019) Latent Graph-regularized Inductive Robust Principal Component Analysis. <i><b>Knowledge-based Systems</b></i>,  177(1): 68-81.</li></ul>
 
-<ul> <li> <b>Lai, Wei</b> Yan Zhang, Jun Yin, Rigui Zhou, Changming Zhu, Xiafen Zhang (2019) An Improved Structured Low-rank Representation for Disjoint Subspace Segmentation. <i><b>Neural Processing Letters</b></i>,  50: 1035-1050.</li></ul>
+<ul> <li> <b>Lai, Wei</b> Yan Zhang, Jun Yin, Rigui Zhou, Changming Zhu, Xiafen Zhang (2019) An Improved Structured Low-rank Representation for Disjoint Subspace Segmentation. <i><b>Neural Processing Letters</b></i>, 50: 1035-1050.</li></ul>
+
+<ul> <li> <b>Lai, Wei</b> Xiaofeng Wang, Aihua Wu, Rigui Zhou, Changming Zhu (2018) Robust Subspace Segmentation by Self-representation Constrained Low-rank Representation. <i><b>Neural Processing Letters</b></i>, 48(3): 1671-1691.</li></ul>
+
 
 <!--
 <ol start="3"> <li> Rosen, J., <b>Yang, Y.</b>, Abnousi, A., Chen, J., Song, M., Jones, I., Shen, Y., Hu, M., Li, Y. (2021+) HPRep: Quantifying reproducibility in HiChIP and PLAC-seq datasets. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.23.394239v1">link</a>></li></ol>
