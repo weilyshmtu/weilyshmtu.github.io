@@ -28,7 +28,7 @@ title: Lai Wei's publications
 
 <ul> <li> <b>Lai, Wei</b> Xiaofeng Wang, Aihua Wu, Rigui Zhou, Changming Zhu (2018) Robust Subspace Segmentation by Self-representation Constrained Low-rank Representation. <i><b>Neural Processing Letters</b></i>, 48(3): 1671-1691.</li></ul>
 
-
+<ul> <li>Jun Yin, Zhihui Lai, Weiming Zeng, <b>Lai, Wei</b> (2018) Local Sparsity Preserving Projection and Its Application to Biometric Recognition. <i><b>Multimedia Tools and Applications</b></i>, 77(1):1069-1092.</li></ul>
 <!--
 <ol start="3"> <li> Rosen, J., <b>Yang, Y.</b>, Abnousi, A., Chen, J., Song, M., Jones, I., Shen, Y., Hu, M., Li, Y. (2021+) HPRep: Quantifying reproducibility in HiChIP and PLAC-seq datasets. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.23.394239v1">link</a>></li></ol>
 -->
