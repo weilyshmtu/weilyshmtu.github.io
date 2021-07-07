@@ -53,10 +53,6 @@ My research interests include pattern recognition and machine learning. In parti
 
 ---
 
-
-
----
-
 ### CONTACT INFORMATION
 
 <div class="container">
