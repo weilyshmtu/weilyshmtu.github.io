@@ -7,7 +7,7 @@ title: Lai Wei's publications
 
 &dagger;: Corresponding author.
 
-### Journal
+### Journal Articles
 <ul> <li> <b>Lai, Wei</b>, Fenfen Ji, Hao Liu, Rigui Zhou, Changming Zhu, Xiafen Zhang (2021) Subspace Clustering via Structured Sparse Relation Representation. <i><b>IEEE Transactions on Neural Networks and Learning Systems</b></i>, <<a href="https://doi.org/10.1109/TNNLS.2021.3059511">link</a>></li></ul>
 
 <ul> <li> Xiaobo Xiao, <b>Lai, Wei<sup>&dagger;</sup></b> (2020) Robust Subspace Clustering via Latent Smooth Representation Clustering. <i><b>Neural Processing Letters</b></i>, 52: 1317–1337.</li></ul>
