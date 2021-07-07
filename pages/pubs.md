@@ -3,17 +3,11 @@ layout: page
 title: Lai Wei's publications
 ---
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="https://scholar.google.com/citations?user=0CK0320AAAAJ">Google Scholar</a></li>
-      </ul>
-  </div>
-</div>
 
-<u>Lab Member</u>; &dagger;: Co-first authors; &sect;: Corresponding or co-corresponding authors.
 
-### Preprint
+<u>Lab Member</u>; &dagger;: Corresponding authors.
+
+### Journal
 <ol > <li> <b>Lai, Wei</b>, Fenfen Ji, Hao Liu, Rigui Zhou, Changming Zhu, Xiafen Zhang (2021) Subspace Clustering via Structured Sparse Relation Representation. <i><b>IEEE Transactions on Neural Networks and Learning Systems</b></i>. <<a href="https://doi.org/10.1109/TNNLS.2021.3059511">link</a>></li></ol>
 
 <!--
