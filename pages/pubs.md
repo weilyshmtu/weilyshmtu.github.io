@@ -14,11 +14,15 @@ title: Lai Wei's publications
 
 <ul> <li> Shujun Liu, <b>Lai, Wei<sup>&dagger;</sup></b> (2020) Block Integration based Image Clustering. <i><b>Computer Sciences</b></i>, 47(6): 170-175.</li></ul>
 
-<ul> <li> <b>Lai, Wei</b> Rigui Zhou, Changming Zhu, Xiafen Zhang, Jun Yin (2020) Adaptive graph‑regularized fixed rank representation for subspace segmentation. <i><b>Pattern Analysis and Applications</b></i>, 23: 443-453.</li></ul>
+<ul> <li> <b>Lai, Wei</b> Rigui Zhou, Changming Zhu, Xiafen Zhang, Jun Yin (2020) Adaptive Graph‑regularized Fixed Rank Representation for Subspace Segmentation. <i><b>Pattern Analysis and Applications</b></i>, 23: 443-453.</li></ul>
 
-<ul> <li>Changming Zhu, Duoqian Miao, Zhe Wang, Rigui Zhou, <b>Lai, Wei</b>, Xiafen Zhang (2020) Global and local multi-view multi-label learning. <i><b>Neurocomputing</b></i>, 371: 67-77.</li></ul>
+<ul> <li>Changming Zhu, Duoqian Miao, Zhe Wang, Rigui Zhou, <b>Lai, Wei</b>, Xiafen Zhang (2020) Global and Local Multi-view Multi-label Learning. <i><b>Neurocomputing</b></i>, 371: 67-77.</li></ul>
 
-<ul> <li>Changming Zhu, Zhe Wang, Rigui Zhou, <b>Lai, Wei</b>, Xiafen Zhang, Yi Ding (2019) Semi-supervised one-pass multi-view learning. <i><b>Neural Computing and Applications</b></i>, 31(11): 8117-8134.</li></ul>
+<ul> <li>Changming Zhu, Zhe Wang, Rigui Zhou, <b>Lai, Wei</b>, Xiafen Zhang, Yi Ding (2019) Semi-supervised One-pass Multi-view Learning. <i><b>Neural Computing and Applications</b></i>, 31(11): 8117-8134.</li></ul>
+
+<ul> <li> <b>Lai, Wei</b> Rigui Zhou, Xiaofeng Wang, Changming Zhu, Jun Yin, Xiafen Zhang (2019) Subspace Segmentation via Self-regularized Latent K-means. <i><b>Expert Systems with Applications</b></i>, 163(1): 316-326.</li></ul>
+
+<ul> <li> <b>Lai, Wei</b> Rigui Zhou, Jun Yin, Changming Zhu, Xiafen Zhang, Hao Liu (2019) Latent Graph-regularized Inductive Robust Principal Component Analysis. <i><b>Knowledge-based Systems</b></i>,  177(1): 68-81.</li></ul>
 
 
 <!--
