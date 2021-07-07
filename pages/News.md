@@ -2,7 +2,7 @@
 layout: page
 title: News
 ---
-
+<!--
 ## 2021
 <b>June 17, 2021</b><br/> 
 The research article "SnapHiC: a computational pipeline to identify chromatin loops from single cell Hi-C data" I co-authored is accepted for publication in ***Nature Methods***.<br/>
@@ -84,3 +84,4 @@ I offically become an Research Assistant Professor in Department of Pathology an
 McAllister Heart Institute, University of North Carolina, Chapel Hill.
 
 <br/>
+-->
