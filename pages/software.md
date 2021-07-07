@@ -2,7 +2,7 @@
 layout: page
 title: Lai Wei' Software
 ---
-
+<!--
 ### Single-cell RNA-seq
 
 **SAFEclustering**: SAFE (Single-cell Aggregated clustering From Ensemble): Cluster ensemble for single-cell RNA-seq data ([GitHub](https://github.com/yycunc/SAFEclustering), [vignettes](https://github.com/yycunc/SAFEclustering/blob/master/README.md))
@@ -18,3 +18,4 @@ title: Lai Wei' Software
 **MUNIn** (Multiple tissue UNifying long-range chromatin Interaction detector): a statistical framework for identifying long-range chromatin interactions from multiple tissues/samples.([GitHub](https://github.com/yycunc/MUNIn), [vignettes](https://github.com/yycunc/MUNIn/blob/master/README.md))
 
 **FIREcaller**: an R package for detecting frequently interacting re-gions from Hi-C data. ([GitHub](https://github.com/yycunc/FIREcaller), [vignettes](https://github.com/yycunc/FIREcaller/blob/master/README.md))
+-->
