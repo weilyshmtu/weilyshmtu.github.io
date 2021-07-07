@@ -23,7 +23,7 @@ My research interests include pattern recognition and machine learning. In parti
 ### PROFESSIONAL EXPERIENCE AND EDUCATION
 <div class="container">
     <div class="row-fluid">
-            2009 - present:  <b>Associate Professor</b><br/>
+            2014 - present:  <b>Associate Professor</b><br/>
             <a href="https://cie.shmtu.edu.cn/">College of Information Engineering</a><br/>
             <a href="https://www.shmtu.edu.cn/">Shanghai Maritime University</a><br/>
             Shanghai, China <br/><br/>
