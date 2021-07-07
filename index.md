@@ -48,7 +48,7 @@ My research interests include pattern recognition and machine learning. In parti
 
 2000 - 2004:  <b>Undergraduate/B.S. Student</b><br/>
     Major: Mathematics and Applied Mathematics<br/>
-    School of Mathematical<br/>
+    School of Mathematical Science<br/>
     Tongji University, Shanghai, China<br/>
 
 ---
