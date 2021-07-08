@@ -17,6 +17,13 @@ title: Lai Wei's publications
 
 <ul> <li> <b>Lai Wei</b>, Rigui Zhou, Changming Zhu, Xiafen Zhang, Jun Yin (2020) Adaptive Graph regularized Fixed Rank Representation for Subspace Segmentation. <i><b>Pattern Analysis and Applications</b></i>, 23: 443-453.</li></ul>
 
+<ul> <li> Changming Zhu, Panhong Wang, Lin Ma, Rigui Zhou, <b>Lai Wei</b> (2020) Global and Local Multi-view Multi-label Learning with Incomplete Views and Labels, <i><b>Neural Computing and Applications</b></i>, 32：15007-15028.</li></ul>
+
+<ul> <li>Changming Zhu, Chao Chen, Rigui Zhou, <b>Lai Wei</b>, Xiafen Zhang (2020) A New Multi-View Learning Machine with Incomplete Data, <i><b>Pattern Analysis and Applications</b></i>, 23：1085-1116.</li></ul>
+
+
+<ul> <li>Changming Zhu, Duoqian Miao, Rigui Zhou, Lai Wei (2020) Weight-and-Universum based Semi-supervised Multi-view Learning Machine, <i><b>Soft Computing</b></i>, 24(14)：10657–10679.</li></ul>
+
 <ul> <li>Changming Zhu, Duoqian Miao, Zhe Wang, Rigui Zhou, <b>Lai Wei</b>, Xiafen Zhang (2020) Global and Local Multi-view Multi-label Learning. <i><b>Neurocomputing</b></i>, 371: 67-77.</li></ul>
 
 ### 2019
