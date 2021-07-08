@@ -28,13 +28,14 @@ title: Lai Wei's publications
 
 <ul> <li> <b>Lai Wei</b> Xiaofeng Wang, Aihua Wu, Rigui Zhou, Changming Zhu (2018) Robust Subspace Segmentation by Self-representation Constrained Low-rank Representation. <i><b>Neural Processing Letters</b></i>, 48(3): 1671-1691.</li></ul>
 
-<ul> <li>Jun Yin, Zhihui Lai, Weiming Zeng, <b>Lai, Wei</b> (2018) Local Sparsity Preserving Projection and Its Application to Biometric Recognition. <i><b>Multimedia Tools and Applications</b></i>, 77(1):1069-1092.</li></ul>
+<ul> <li>Jun Yin, Zhihui Lai, Weiming Zeng, <b>Lai, Wei</b> (2018) Local Sparsity Preserving Projection and Its Application to Biometric Recognition. <i><b>Multimedia Tools and Applications</b></i>, 77(1): 1069-1092.</li></ul>
 
 <ul> <li> <b>Lai Wei</b> Xiaofeng Wang, Jun Yin, Auhua Wu (2017) Self-regularized Fixed-rank Representation for Subspace Segmentation. <i><b>Information Sciences</b></i>, 412-412: 194-209.</li></ul>
 
 <ul> <li> <b>Lai Wei</b> Xiaofeng Wang, Jun Yin, Auhua Wu (2016) Spectral Clustering Steered Low-rank Representation for Subspace Segmentation. <i><b>Journal of Visual Communication and Image Representation</b></i>, 38: 386-395.</li></ul>
 
-
+<ul> <li>Jun Yin, Weiming Zeng, <b>Lai, Wei</b> (2016) Optimal Feature Extraction Methods for Classification Methods and Their Applications to Biometric recognition. <i><b>Knowledge-Based Systems</b></i>, 99: 112-122.
+</li></ul>
 
 
 
