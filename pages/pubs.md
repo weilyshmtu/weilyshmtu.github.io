@@ -6,7 +6,7 @@ title: Lai Wei's publications
 
 &dagger;: Corresponding author.
 
-#### Journal Articles
+## Journal Articles
 ### 2021
 <ul> <li> <b>Lai Wei</b>, Fenfen Ji, Hao Liu, Rigui Zhou, Changming Zhu, Xiafen Zhang (2021) Subspace Clustering via Structured Sparse Relation Representation. <i><b>IEEE Transactions on Neural Networks and Learning Systems</b></i>, <<a href="https://doi.org/10.1109/TNNLS.2021.3059511">link</a>></li></ul>
 
@@ -80,7 +80,7 @@ title: Lai Wei's publications
 
 <ul> <li> <b>Lai Wei</b>, Duoqian Miao, Feifei Xu, Fuchun Xia (2006) Researches on A Covering Rough Fuzzy Set Model. <i><b>Journal of Computer Research and Development</b></i>, 43(10): 1719-1723. (In Chinese)</li></ul>
 
-#### Conference Papers
+## Conference Papers
 
 <ul> <li> <b>Lai Wei</b>, Hao Liu (2019) Robust subspace segmentation via sparse relation representation,<i><b>The 2nd Chinese Conference on Pattern Recognition and Computer Vision (PRCV’19)</b></i>, 2019.11.8-2019.11.11.</li></ul>
 
