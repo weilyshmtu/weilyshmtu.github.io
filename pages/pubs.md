@@ -54,6 +54,14 @@ title: Lai Wei's publications
 
 <ul> <li> Duoqian Miao, Yiyu Yao，Feifei Xu <b>Lai Wei</b> (2012) Set-Theoretic Formulation of Granular Computing. <i><b>Chinese Journal of Computers</b></i>, 35(2): 351-363. (In Chinese)</li></ul>
 
+<ul> <li> <b>Lai Wei</b>, Shoujue Wang (2010) Semi-supervised Discriminant Analysis Based on Manifold Distance. <i><b>Journal of Software</b></i>, 21(10): 2445-2453. (In Chinese)</li></ul>
+
+<ul> <li> <b>Lai Wei</b>, Shoujue Wang, Feifei Xu (2009) Neighborhood Margin Fisher Discriminant Analysis. <i><b>Journal of Electronics & Information Technology</b></i>, 31(3): 509-512. (In Chinese)</li></ul>
+
+
+<ul> <li> Feifei Xu Duoqian Miao, <b>Lai Wei</b>, Qingrong Feng, Yusheng Bi (2008) Mutual Information-based Algorithm for Fuzzy-Rough Attribute Reduction. <i><b>Journal of Electronics & Information Technology</b></i>, 30(6):1372-1375. (In Chinese)</li></ul>
+
+<ul> <li> <b>Lai Wei</b>, Duoqian Miao, Feifei Xu, Fuchun Xia (2006) Researches on A Covering Rough Fuzzy Set Model. <i><b>Journal of Computer Research and Development</b></i>, 43(10): 1719-1723. (In Chinese)</li></ul>
 <!--
 <ol start="3"> <li> Rosen, J., <b>Yang, Y.</b>, Abnousi, A., Chen, J., Song, M., Jones, I., Shen, Y., Hu, M., Li, Y. (2021+) HPRep: Quantifying reproducibility in HiChIP and PLAC-seq datasets. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.23.394239v1">link</a>></li></ol>
 -->
