@@ -8,8 +8,9 @@ title: Lai Wei's publications
 
 #### Journal Articles
 ### 2021
-<ul> <li> <b>Lai Wei</b>, Fenfen Ji, Hao Liu, Rigui Zhou, Changming Zhu, Xiafen Zhang (2021) Subspace Clustering via Structured Sparse Relation Representation. <i><b>IEEE Transactions on Neural Networks and Learning Systems</b></i>, <<a href="https://doi.org/10.1109/TNNLS.2021.3059511">link</a>></li></ul>
+<ul> <li> <b>Lai Wei</b>, Fenfen Ji, Hao Liu, Rigui Zhou, Changming Zhu, Xiafen Zhang (2021) Evidential Reasoning with Hesitant Fuzzy Belief Structures for Human Activity Recognition. <i><b>IEEE Transactions on Fuzzy Systems</b></i>, <<a href="https://doi.org/10.1109/TFUZZ.2021.3079495">link</a>></li></ul>
 
+<ul> <li> Yiling Dong, Xinde Li, Jean Dezert, Rigui Zhou, Changming Zhu, <b>Lai Wei</b>, Shuzhi Sam Ge (2021) Subspace Clustering via Structured Sparse Relation Representation. <i><b>IEEE Transactions on Neural Networks and Learning Systems</b></i>, <<a href="https://doi.org/10.1109/TNNLS.2021.3059511">link</a>></li></ul>
 ### 2020
 <ul> <li> Xiaobo Xiao, <b>Lai Wei<sup>&dagger;</sup></b> (2020) Robust Subspace Clustering via Latent Smooth Representation Clustering. <i><b>Neural Processing Letters</b></i>, 52: 1317–1337.</li></ul>
 
