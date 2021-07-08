@@ -46,6 +46,10 @@ title: Lai Wei's publications
 <ul> <li> <b>Lai Wei</b>, Feifei Xu, (2014) Feature Extraction by Integrated Global and Local Discriminator. <i><b>Journal of Computational Information Systems</b></i>, 10(7): 2719-2726.</li></ul>
 
 <ul> <li> <b>Lai Wei</b>, Feifei Xu, (2012) Local CCA Alignment and Its ApplicationS. <i><b>Neurocomputing</b></i>, 89(15): 78-88.</li></ul>
+
+<ul> <li>FeiFei Xu, DuoQian Miao, <b>Lai Wei</b> (2009) Fuzzy-rough Attribute Reduction Via Mutual Information With An Application to Cancer Classification. <i><b>Computer and Mathematics with Applications</b></i>, 57(6): 1010-1017.
+</li></ul>
+
 <!--
 <ol start="3"> <li> Rosen, J., <b>Yang, Y.</b>, Abnousi, A., Chen, J., Song, M., Jones, I., Shen, Y., Hu, M., Li, Y. (2021+) HPRep: Quantifying reproducibility in HiChIP and PLAC-seq datasets. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.23.394239v1">link</a>></li></ol>
 -->
