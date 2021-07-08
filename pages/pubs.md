@@ -39,6 +39,11 @@ title: Lai Wei's publications
 
 <ul> <li> <b>Lai Wei</b>, Auhua Wu, Jun Yin (2015) Latent Space Robust Subspace Segmentation Based on Low-rank and Locality Constraints. <i><b>Expert Systems with Applications</b></i>, 42(19): 6598-6608.</li></ul>
 
+<ul> <li> <b>Lai Wei</b>, Feifei Xu, Jun Yin, Auhua Wu (2014) Kernel Locality-constrained Collaborative Representation Based Discriminant Analysis. <i><b>Knowledge-based Systems</b></i>, 70: 212-220.</li></ul>
+
+<ul> <li> <b>Lai Wei</b>, Feifei Xu, Auhua Wu (2014) Kernel Weighted Discriminative Sparsity Preserving Embedding for Face Recognition. <i><b>Knowledge-based Systems</b></i>, 57(2): 136-145.</li></ul>
+
+<ul> <li> <b>Lai Wei</b>, Feifei Xu, (2014) Feature Extraction by Integrated Global and Local Discriminator. <i><b>Journal of Computational Information Systems</b></i>, 10(7): 2719-2726.</li></ul>
 
 <!--
 <ol start="3"> <li> Rosen, J., <b>Yang, Y.</b>, Abnousi, A., Chen, J., Song, M., Jones, I., Shen, Y., Hu, M., Li, Y. (2021+) HPRep: Quantifying reproducibility in HiChIP and PLAC-seq datasets. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.23.394239v1">link</a>></li></ol>
