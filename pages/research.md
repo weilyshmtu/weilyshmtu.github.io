@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lai Wei's feature researches
+title: Lai Wei's researches
 ---
 <!--
 ### Aggregated Clustering Method for Single-cell RNA-seq Data
