@@ -4,7 +4,8 @@ title: Teaching by Lai Wei
 ---
 
 <div class="cv">
-  <b>Data Structure</b>, First semester of each academic year  <br/> 
-Basic Bioinformatics Tools (BBT) Workshops, SHMTU <br/>
+  <b>Data Structure (In Chinese)</b>, The first semester of each academic year  <br/> 
+  <b>Artificial Intelligence (In Chinese)</b>, The first semester of each academic year  <br/> 
+  <b>Information Resource Management (In Chinese)</b>, The Second semester of each academic year  <br/> 
 <br/>
 
