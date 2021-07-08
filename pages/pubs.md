@@ -37,6 +37,7 @@ title: Lai Wei's publications
 <ul> <li>Jun Yin, Weiming Zeng, <b>Lai Wei</b> (2016) Optimal Feature Extraction Methods for Classification Methods and Their Applications to Biometric recognition. <i><b>Knowledge-Based Systems</b></i>, 99: 112-122.
 </li></ul>
 
+<ul> <li> <b>Lai Wei</b>, Auhua Wu, Jun Yin (2015) Latent Space Robust Subspace Segmentation Based on Low-rank and Locality Constraints. <i><b>Expert Systems with Applications</b></i>, 42(19): 6598-6608.</li></ul>
 
 
 <!--
