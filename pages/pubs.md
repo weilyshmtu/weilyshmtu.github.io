@@ -8,27 +8,30 @@ title: Lai Wei's publications
 &dagger;: Corresponding author.
 
 ### Journal Articles
-<ul> <li> <b>Lai, Wei</b>, Fenfen Ji, Hao Liu, Rigui Zhou, Changming Zhu, Xiafen Zhang (2021) Subspace Clustering via Structured Sparse Relation Representation. <i><b>IEEE Transactions on Neural Networks and Learning Systems</b></i>, <<a href="https://doi.org/10.1109/TNNLS.2021.3059511">link</a>></li></ul>
+<ul> <li> <b>Lai Wei</b>, Fenfen Ji, Hao Liu, Rigui Zhou, Changming Zhu, Xiafen Zhang (2021) Subspace Clustering via Structured Sparse Relation Representation. <i><b>IEEE Transactions on Neural Networks and Learning Systems</b></i>, <<a href="https://doi.org/10.1109/TNNLS.2021.3059511">link</a>></li></ul>
 
-<ul> <li> Xiaobo Xiao, <b>Lai, Wei<sup>&dagger;</sup></b> (2020) Robust Subspace Clustering via Latent Smooth Representation Clustering. <i><b>Neural Processing Letters</b></i>, 52: 1317–1337.</li></ul>
+<ul> <li> Xiaobo Xiao, <b>Lai Wei<sup>&dagger;</sup></b> (2020) Robust Subspace Clustering via Latent Smooth Representation Clustering. <i><b>Neural Processing Letters</b></i>, 52: 1317–1337.</li></ul>
 
-<ul> <li> Shujun Liu, <b>Lai, Wei<sup>&dagger;</sup></b> (2020) Block Integration based Image Clustering. <i><b>Computer Sciences</b></i>, 47(6): 170-175.</li></ul>
+<ul> <li> Shujun Liu, <b>Lai Wei<sup>&dagger;</sup></b> (2020) Block Integration based Image Clustering. <i><b>Computer Sciences</b></i>, 47(6): 170-175.</li></ul>
 
-<ul> <li> <b>Lai, Wei</b> Rigui Zhou, Changming Zhu, Xiafen Zhang, Jun Yin (2020) Adaptive Graph‑regularized Fixed Rank Representation for Subspace Segmentation. <i><b>Pattern Analysis and Applications</b></i>, 23: 443-453.</li></ul>
+<ul> <li> <b>Lai Wei</b> Rigui Zhou, Changming Zhu, Xiafen Zhang, Jun Yin (2020) Adaptive Graph‑regularized Fixed Rank Representation for Subspace Segmentation. <i><b>Pattern Analysis and Applications</b></i>, 23: 443-453.</li></ul>
 
-<ul> <li>Changming Zhu, Duoqian Miao, Zhe Wang, Rigui Zhou, <b>Lai, Wei</b>, Xiafen Zhang (2020) Global and Local Multi-view Multi-label Learning. <i><b>Neurocomputing</b></i>, 371: 67-77.</li></ul>
+<ul> <li>Changming Zhu, Duoqian Miao, Zhe Wang, Rigui Zhou, <b>Lai Wei</b>, Xiafen Zhang (2020) Global and Local Multi-view Multi-label Learning. <i><b>Neurocomputing</b></i>, 371: 67-77.</li></ul>
 
-<ul> <li>Changming Zhu, Zhe Wang, Rigui Zhou, <b>Lai, Wei</b>, Xiafen Zhang, Yi Ding (2019) Semi-supervised One-pass Multi-view Learning. <i><b>Neural Computing and Applications</b></i>, 31(11): 8117-8134.</li></ul>
+<ul> <li>Changming Zhu, Zhe Wang, Rigui Zhou, <b>Lai Wei</b>, Xiafen Zhang, Yi Ding (2019) Semi-supervised One-pass Multi-view Learning. <i><b>Neural Computing and Applications</b></i>, 31(11): 8117-8134.</li></ul>
 
-<ul> <li> <b>Lai, Wei</b> Rigui Zhou, Xiaofeng Wang, Changming Zhu, Jun Yin, Xiafen Zhang (2019) Subspace Segmentation via Self-regularized Latent K-means. <i><b>Expert Systems with Applications</b></i>, 163(1): 316-326.</li></ul>
+<ul> <li> <b>Lai Wei</b> Rigui Zhou, Xiaofeng Wang, Changming Zhu, Jun Yin, Xiafen Zhang (2019) Subspace Segmentation via Self-regularized Latent K-means. <i><b>Expert Systems with Applications</b></i>, 163(1): 316-326.</li></ul>
 
-<ul> <li> <b>Lai, Wei</b> Rigui Zhou, Jun Yin, Changming Zhu, Xiafen Zhang, Hao Liu (2019) Latent Graph-regularized Inductive Robust Principal Component Analysis. <i><b>Knowledge-based Systems</b></i>,  177(1): 68-81.</li></ul>
+<ul> <li> <b>Lai Wei</b> Rigui Zhou, Jun Yin, Changming Zhu, Xiafen Zhang, Hao Liu (2019) Latent Graph-regularized Inductive Robust Principal Component Analysis. <i><b>Knowledge-based Systems</b></i>,  177(1): 68-81.</li></ul>
 
-<ul> <li> <b>Lai, Wei</b> Yan Zhang, Jun Yin, Rigui Zhou, Changming Zhu, Xiafen Zhang (2019) An Improved Structured Low-rank Representation for Disjoint Subspace Segmentation. <i><b>Neural Processing Letters</b></i>, 50: 1035-1050.</li></ul>
+<ul> <li> <b>Lai Wei</b> Yan Zhang, Jun Yin, Rigui Zhou, Changming Zhu, Xiafen Zhang (2019) An Improved Structured Low-rank Representation for Disjoint Subspace Segmentation. <i><b>Neural Processing Letters</b></i>, 50: 1035-1050.</li></ul>
 
-<ul> <li> <b>Lai, Wei</b> Xiaofeng Wang, Aihua Wu, Rigui Zhou, Changming Zhu (2018) Robust Subspace Segmentation by Self-representation Constrained Low-rank Representation. <i><b>Neural Processing Letters</b></i>, 48(3): 1671-1691.</li></ul>
+<ul> <li> <b>Lai Wei</b> Xiaofeng Wang, Aihua Wu, Rigui Zhou, Changming Zhu (2018) Robust Subspace Segmentation by Self-representation Constrained Low-rank Representation. <i><b>Neural Processing Letters</b></i>, 48(3): 1671-1691.</li></ul>
 
 <ul> <li>Jun Yin, Zhihui Lai, Weiming Zeng, <b>Lai, Wei</b> (2018) Local Sparsity Preserving Projection and Its Application to Biometric Recognition. <i><b>Multimedia Tools and Applications</b></i>, 77(1):1069-1092.</li></ul>
+
+
+
 <!--
 <ol start="3"> <li> Rosen, J., <b>Yang, Y.</b>, Abnousi, A., Chen, J., Song, M., Jones, I., Shen, Y., Hu, M., Li, Y. (2021+) HPRep: Quantifying reproducibility in HiChIP and PLAC-seq datasets. <i><b>bioRxiv</b></i>. <<a href="https://www.biorxiv.org/content/10.1101/2020.11.23.394239v1">link</a>></li></ol>
 -->
