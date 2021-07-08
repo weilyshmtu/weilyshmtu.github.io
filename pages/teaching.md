@@ -2,9 +2,9 @@
 layout: page
 title: Teaching by Lai Wei
 ---
-<!--
+
 <div class="cv">
-  <b>Brief introduction to R</b>, Every semester <br/> 
+  <b>Data Structure</b>, First semester of each academic year  <br/> 
 Basic Bioinformatics Tools (BBT) Workshops, SHMTU <br/>
 <br/>
--->
+
