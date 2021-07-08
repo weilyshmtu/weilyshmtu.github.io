@@ -34,7 +34,7 @@ title: Lai Wei's publications
 
 <ul> <li> <b>Lai Wei</b>, Xiaofeng Wang, Jun Yin, Auhua Wu (2016) Spectral Clustering Steered Low-rank Representation for Subspace Segmentation. <i><b>Journal of Visual Communication and Image Representation</b></i>, 38: 386-395.</li></ul>
 
-<ul> <li>Jun Yin, Weiming Zeng, <b>Lai, Wei</b> (2016) Optimal Feature Extraction Methods for Classification Methods and Their Applications to Biometric recognition. <i><b>Knowledge-Based Systems</b></i>, 99: 112-122.
+<ul> <li>Jun Yin, Weiming Zeng, <b>Lai Wei</b> (2016) Optimal Feature Extraction Methods for Classification Methods and Their Applications to Biometric recognition. <i><b>Knowledge-Based Systems</b></i>, 99: 112-122.
 </li></ul>
 
 
