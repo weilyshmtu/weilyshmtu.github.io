@@ -14,25 +14,25 @@ title: Lai Wei's publications
 
 <ul> <li> Shujun Liu, <b>Lai Wei<sup>&dagger;</sup></b> (2020) Block Integration based Image Clustering. <i><b>Computer Sciences</b></i>, 47(6): 170-175.</li></ul>
 
-<ul> <li> <b>Lai Wei</b> Rigui Zhou, Changming Zhu, Xiafen Zhang, Jun Yin (2020) Adaptive Graph‑regularized Fixed Rank Representation for Subspace Segmentation. <i><b>Pattern Analysis and Applications</b></i>, 23: 443-453.</li></ul>
+<ul> <li> <b>Lai Wei</b>, Rigui Zhou, Changming Zhu, Xiafen Zhang, Jun Yin (2020) Adaptive Graph‑regularized Fixed Rank Representation for Subspace Segmentation. <i><b>Pattern Analysis and Applications</b></i>, 23: 443-453.</li></ul>
 
 <ul> <li>Changming Zhu, Duoqian Miao, Zhe Wang, Rigui Zhou, <b>Lai Wei</b>, Xiafen Zhang (2020) Global and Local Multi-view Multi-label Learning. <i><b>Neurocomputing</b></i>, 371: 67-77.</li></ul>
 
 <ul> <li>Changming Zhu, Zhe Wang, Rigui Zhou, <b>Lai Wei</b>, Xiafen Zhang, Yi Ding (2019) Semi-supervised One-pass Multi-view Learning. <i><b>Neural Computing and Applications</b></i>, 31(11): 8117-8134.</li></ul>
 
-<ul> <li> <b>Lai Wei</b> Rigui Zhou, Xiaofeng Wang, Changming Zhu, Jun Yin, Xiafen Zhang (2019) Subspace Segmentation via Self-regularized Latent K-means. <i><b>Expert Systems with Applications</b></i>, 163(1): 316-326.</li></ul>
+<ul> <li> <b>Lai Wei</b>, Rigui Zhou, Xiaofeng Wang, Changming Zhu, Jun Yin, Xiafen Zhang (2019) Subspace Segmentation via Self-regularized Latent K-means. <i><b>Expert Systems with Applications</b></i>, 163(1): 316-326.</li></ul>
 
-<ul> <li> <b>Lai Wei</b> Rigui Zhou, Jun Yin, Changming Zhu, Xiafen Zhang, Hao Liu (2019) Latent Graph-regularized Inductive Robust Principal Component Analysis. <i><b>Knowledge-based Systems</b></i>,  177(1): 68-81.</li></ul>
+<ul> <li> <b>Lai Wei</b>, Rigui Zhou, Jun Yin, Changming Zhu, Xiafen Zhang, Hao Liu (2019) Latent Graph-regularized Inductive Robust Principal Component Analysis. <i><b>Knowledge-based Systems</b></i>,  177(1): 68-81.</li></ul>
 
-<ul> <li> <b>Lai Wei</b> Yan Zhang, Jun Yin, Rigui Zhou, Changming Zhu, Xiafen Zhang (2019) An Improved Structured Low-rank Representation for Disjoint Subspace Segmentation. <i><b>Neural Processing Letters</b></i>, 50: 1035-1050.</li></ul>
+<ul> <li> <b>Lai Wei</b>, Yan Zhang, Jun Yin, Rigui Zhou, Changming Zhu, Xiafen Zhang (2019) An Improved Structured Low-rank Representation for Disjoint Subspace Segmentation. <i><b>Neural Processing Letters</b></i>, 50: 1035-1050.</li></ul>
 
-<ul> <li> <b>Lai Wei</b> Xiaofeng Wang, Aihua Wu, Rigui Zhou, Changming Zhu (2018) Robust Subspace Segmentation by Self-representation Constrained Low-rank Representation. <i><b>Neural Processing Letters</b></i>, 48(3): 1671-1691.</li></ul>
+<ul> <li> <b>Lai Wei</b>, Xiaofeng Wang, Aihua Wu, Rigui Zhou, Changming Zhu (2018) Robust Subspace Segmentation by Self-representation Constrained Low-rank Representation. <i><b>Neural Processing Letters</b></i>, 48(3): 1671-1691.</li></ul>
 
 <ul> <li>Jun Yin, Zhihui Lai, Weiming Zeng, <b>Lai, Wei</b> (2018) Local Sparsity Preserving Projection and Its Application to Biometric Recognition. <i><b>Multimedia Tools and Applications</b></i>, 77(1): 1069-1092.</li></ul>
 
-<ul> <li> <b>Lai Wei</b> Xiaofeng Wang, Jun Yin, Auhua Wu (2017) Self-regularized Fixed-rank Representation for Subspace Segmentation. <i><b>Information Sciences</b></i>, 412-412: 194-209.</li></ul>
+<ul> <li> <b>Lai Wei</b>, Xiaofeng Wang, Jun Yin, Auhua Wu (2017) Self-regularized Fixed-rank Representation for Subspace Segmentation. <i><b>Information Sciences</b></i>, 412-412: 194-209.</li></ul>
 
-<ul> <li> <b>Lai Wei</b> Xiaofeng Wang, Jun Yin, Auhua Wu (2016) Spectral Clustering Steered Low-rank Representation for Subspace Segmentation. <i><b>Journal of Visual Communication and Image Representation</b></i>, 38: 386-395.</li></ul>
+<ul> <li> <b>Lai Wei</b>, Xiaofeng Wang, Jun Yin, Auhua Wu (2016) Spectral Clustering Steered Low-rank Representation for Subspace Segmentation. <i><b>Journal of Visual Communication and Image Representation</b></i>, 38: 386-395.</li></ul>
 
 <ul> <li>Jun Yin, Weiming Zeng, <b>Lai, Wei</b> (2016) Optimal Feature Extraction Methods for Classification Methods and Their Applications to Biometric recognition. <i><b>Knowledge-Based Systems</b></i>, 99: 112-122.
 </li></ul>
