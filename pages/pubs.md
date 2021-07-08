@@ -52,7 +52,7 @@ title: Lai Wei's publications
 
 <ul> <li> <b>Lai Wei</b>, Feifei Xu, (2012) An Constructive Algorithm of Multi-Weight Neuron Covering Networks. <i><b>Chinese Journal of Computers</b></i>, 35(5):1031-1037. (In Chinese)</li></ul>
 
-<ul> <li> Duoqian Miao, Yiyu Yao，Feifei Xu <b>Lai Wei</b> (2012) Set-Theoretic Formulation of Granular Computing. <i><b>Chinese Journal of Computers</b></i>, 35(2): 351-363. (In Chinese)</li></ul>
+<ul> <li> Duoqian Miao, Yiyu Yao,Feifei Xu <b>Lai Wei</b> (2012) Set-Theoretic Formulation of Granular Computing. <i><b>Chinese Journal of Computers</b></i>, 35(2): 351-363. (In Chinese)</li></ul>
 
 <ul> <li> <b>Lai Wei</b>, Shoujue Wang (2010) Semi-supervised Discriminant Analysis Based on Manifold Distance. <i><b>Journal of Software</b></i>, 21(10): 2445-2453. (In Chinese)</li></ul>
 
@@ -66,9 +66,19 @@ title: Lai Wei's publications
 ### Conference Papers
 
 
-<ul> <li> <b>Lai Wei</b>, Hao Liu (2019) Robust subspace segmentation via sparse relation representation，<i><b>The 2nd Chinese Conference on Pattern Recognition and Computer Vision (PRCV’19)</b></i>，2019.11.8-2019.11.11.</li></ul>
+<ul> <li> <b>Lai Wei</b>, Hao Liu (2019) Robust subspace segmentation via sparse relation representation,<i><b>The 2nd Chinese Conference on Pattern Recognition and Computer Vision (PRCV’19)</b></i>, 2019.11.8-2019.11.11.</li></ul>
 
-<ul> <li> <b>Lai Wei</b> (2014) Optimal subspace learning for sparse representation based classifier via discriminative principal subspaces alignment，<i><b>The 9th International Conference on Rough Sets and Knowledge Technology (RSKT’14)</b></i>，2014.10.25-2014.10.26. </li></ul>
+<ul> <li> <b>Lai Wei</b> (2014) Optimal subspace learning for sparse representation based classifier via discriminative principal subspaces alignment, <i><b>The 9th International Conference on Rough Sets and Knowledge Technology (RSKT’14)</b></i>,2014.10.25-2014.10.26. </li></ul>
 
 
-<ul> <li> <b>Lai Wei</b>, Feifei Xu (2012) Adaptively weighted subpattern-based sparse preserving projection for face recognition, <i><b>In: Proceeding of The 9th International Conference on Fuzzy Systems and Knowledge Discovery (FSKD’12),</b></i> 29-31 May. 2012, 1394-1403.</li></ul>
+<ul> <li> <b>Lai Wei</b>, Feifei Xu (2012) Adaptively weighted subpattern-based sparse preserving projection for face recognition, <i><b>In: Proceeding of The 9th International Conference on Fuzzy Systems and Knowledge Discovery (FSKD’12)</b></i>, 29-31 May. 2012, 1394-1403.</li></ul>
+
+<ul> <li> <b>Lai Wei</b>, Feifei Xu (2012) Improved KL (K-means-Laplacian) clustering with sparse graphs, <i><b>In: Proceeding of The Second International Conference on Multimedia and Signal Processing (CMSP’12)</b></i> , Shanghai, China, December 7-9, 2012, 506-513.</li></ul>
+
+<ul> <li> <b>Lai Wei</b>, Weiming Zeng, Feifei Xu (2011) Adaptively weighted subpattern-based isometric projection for face recognition, <i><b>In: Proceeding of The Third International Conference on Artificial Intelligence and Computational Intelligence (AICI’11)</b></i>, Taiyuan, China, September 24-25, 2011, 554-561.</li></ul>
+
+<ul> <li> <b>Lai Wei</b>, Weiming Zeng, Hong Wang (2010) K-means clustering with manifold, <i><b>In: Proceeding of The Seventh International Conference on Fuzzy Systems and Knowledge Discovery (FSKD’10)</b></i>, 10-12 Aug. 2010, Yantai, Shandong, 2095-2099.</li></ul>
+
+<ul> <li> <b>Lai Wei</b> (2010) Path-based relative similarity spectral clustering, <i><b>In: Proceeding of The Second Global Congress on Intelligent Systems (GCIS’10)</b></i>, 16-17 December 2010, Wuhan, China, 115-118.</li></ul>
+
+<ul> <li> <b>Lai Wei</b>, Duoqian Miao (2006) Application of granular computing in knowledge reduction, <i><b>In: Proceeding of The First International Conference on Rough Sets and Knowledge Technology (RSKT’06)</b></i>, Chongqing, China, July 24-26, 2006, (4062):357-362.</li></ul>
