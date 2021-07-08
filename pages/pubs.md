@@ -30,6 +30,12 @@ title: Lai Wei's publications
 
 <ul> <li>Jun Yin, Zhihui Lai, Weiming Zeng, <b>Lai, Wei</b> (2018) Local Sparsity Preserving Projection and Its Application to Biometric Recognition. <i><b>Multimedia Tools and Applications</b></i>, 77(1):1069-1092.</li></ul>
 
+<ul> <li> <b>Lai Wei</b> Xiaofeng Wang, Jun Yin, Auhua Wu (2017) Self-regularized Fixed-rank Representation for Subspace Segmentation. <i><b>Information Sciences</b></i>, 412-412: 194-209.</li></ul>
+
+<ul> <li> <b>Lai Wei</b> Xiaofeng Wang, Jun Yin, Auhua Wu (2016) Spectral Clustering Steered Low-rank Representation for Subspace Segmentation. <i><b>Journal of Visual Communication and Image Representation</b></i>, 38: 386-395.</li></ul>
+
+
+
 
 
 <!--
