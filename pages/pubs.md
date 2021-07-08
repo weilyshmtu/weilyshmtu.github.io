@@ -13,7 +13,7 @@ title: Lai Wei's publications
 ### 2020
 <ul> <li> Xiaobo Xiao, <b>Lai Wei<sup>&dagger;</sup></b> (2020) Robust Subspace Clustering via Latent Smooth Representation Clustering. <i><b>Neural Processing Letters</b></i>, 52: 1317–1337.</li></ul>
 
-<ul> <li> Shujun Liu, <b>Lai Wei<sup>&dagger;</sup></b> (2020) Block Integration based Image Clustering. <i><b>Computer Sciences</b></i>, 47(6): 170-175.</li></ul>
+<ul> <li> Shujun Liu, <b>Lai Wei<sup>&dagger;</sup></b> (2020) Block Integration based Image Clustering. <i><b>Computer Sciences</b></i>, 47(6): 170-175. (In Chinese)</li></ul>
 
 <ul> <li> <b>Lai Wei</b>, Rigui Zhou, Changming Zhu, Xiafen Zhang, Jun Yin (2020) Adaptive Graph regularized Fixed Rank Representation for Subspace Segmentation. <i><b>Pattern Analysis and Applications</b></i>, 23: 443-453.</li></ul>
 
