@@ -24,7 +24,7 @@ title: Lai Wei's publications
 <ul> <li>Changming Zhu, Chao Chen, Rigui Zhou, <b>Lai Wei</b>, Xiafen Zhang (2020) A New Multi-View Learning Machine with Incomplete Data, <i><b>Pattern Analysis and Applications</b></i>, 23：1085-1116.</li></ul>
 
 
-<ul> <li>Changming Zhu, Duoqian Miao, Rigui Zhou, Lai Wei (2020) Weight-and-Universum based Semi-supervised Multi-view Learning Machine, <i><b>Soft Computing</b></i>, 24(14)：10657–10679.</li></ul>
+<ul> <li>Changming Zhu, Duoqian Miao, Rigui Zhou, <b>Lai Wei</b> (2020) Weight-and-Universum based Semi-supervised Multi-view Learning Machine, <i><b>Soft Computing</b></i>, 24(14)：10657–10679.</li></ul>
 
 <ul> <li>Changming Zhu, Duoqian Miao, Zhe Wang, Rigui Zhou, <b>Lai Wei</b>, Xiafen Zhang (2020) Global and Local Multi-view Multi-label Learning. <i><b>Neurocomputing</b></i>, 371: 67-77.</li></ul>
 
