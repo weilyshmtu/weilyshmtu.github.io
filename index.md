@@ -32,7 +32,7 @@ My research interests include pattern recognition and machine learning. In parti
 
 <div class="container">
     <div class="row-fluid">
-            2009 - present:  <b>Lecturer</b><br/>
+            2009 - 2014:  <b>Lecturer</b><br/>
             <a href="https://cie.shmtu.edu.cn/">College of Information Engineering</a><br/>
             <a href="https://www.shmtu.edu.cn/">Shanghai Maritime University</a><br/>
             Shanghai, China <br/><br/>
