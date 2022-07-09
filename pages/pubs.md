@@ -8,6 +8,7 @@ title: Lai Wei's publications
 
 ### Journal Articles
 #### 2022
+
 <ul> <li> <b>Lai Wei</b>, Shiteng Liu, Rigui Zhou, Changming Zhu (2022) Learning idempotent representation for subspace clustering. <i><b>submitted to IEEE Transactions on Knowledge and Data Engineering</b></i>
 <ul> <li> <b>Lai Wei</b>, Fanfan Zhang, Zhengwei Chen, Rigui Zhou, Changming Zhu (2022) Subspace clustering via adaptive least square regression with smooth affinities. <i><b>Knowledge-Based Systems</b></i>, <<a href="https://10.1016/j.knosys.2021.107950">link</a>></li></ul>
 
