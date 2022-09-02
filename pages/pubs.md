@@ -16,7 +16,7 @@ title: Lai Wei's publications
 <ul> <li> Changming Zhu, Dujuan Cao, Shuaiping Guo, Rigui Zhou, <b>Lai Wei</b>, Yilin Dong, Duoqian Miao (2022) Weak-label-based global and local multi-view multi-label learning with three-way clustering. <i><b>International Journal of Machine Learning and Cybernetics</b></i>, 13(5): 1337-1354.</li></ul>
 
 #### 2021
-<ul> <li> <b>Lai Wei</b>, Fenfen Ji, Hao Liu, Rigui Zhou, Changming Zhu, Xiafen Zhang (2021) Subspace Clustering via Structured Sparse Relation Representation. <i><b>IEEE Transactions on Neural Networks and Learning Systems</b></i>,  33(9): 4610-4623，<<a href="https://doi.org/10.1109/TNNLS.2021.3059511">link</a>></li></ul>
+<ul> <li> <b>Lai Wei</b>, Fenfen Ji, Hao Liu, Rigui Zhou, Changming Zhu, Xiafen Zhang (2021) Subspace Clustering via Structured Sparse Relation Representation. <i><b>IEEE Transactions on Neural Networks and Learning Systems</b></i>, 33(9): 4610-4623，<<a href="https://doi.org/10.1109/TNNLS.2021.3059511">link</a>></li></ul>
 
 <ul> <li> Yiling Dong, Xinde Li, Jean Dezert, Rigui Zhou, Changming Zhu, <b>Lai Wei</b>, Shuzhi Sam Ge (2021) Evidential Reasoning with Hesitant Fuzzy Belief Structures for Human Activity Recognition. <i><b>IEEE Transactions on Fuzzy Systems</b></i>, <<a href="https://doi.org/10.1109/10.1109/TFUZZ.2021.3079495">link</a>></li></ul>
 
