@@ -9,7 +9,7 @@ title: Lai Wei's publications
 
 ### 2022
 
-<ul> <li> <b>Lai Wei</b>, Shiteng Liu, Rigui Zhou, Changming Zhu (2022) Learning idempotent representation for subspace clustering, <i><b>submitted to IEEE Transactions on Knowledge and Data Engineering.</b></i> </li></ul>
+<ul> <li> <b>Lai Wei</b>, Shiteng Liu, Rigui Zhou, Changming Zhu (2022) Learning idempotent representation for subspace clustering, <i><b>submitted to IEEE Transactions on Knowledge and Data Engineering. (Minor Revision)</b></i> </li></ul>
 
 <ul> <li> Jie Guo, <b>Lai Wei<sup>&dagger;</sup></b> (2022) Latent block diagonal representation for subspace clustering, <i><b>Pattern Analysis and Applications</b></i>, <<a href="https://doi.org/10.1007/s10044-022-01101-3">link</a>>.</li></ul>
 
