@@ -7,11 +7,11 @@ title: Lai Wei's publications
 &dagger;: Corresponding author.
 
 ### 2023
-<ul> <li> <b>Lai Wei</b>, Zhengwei Chen, Jun Yin, Changming Zhu,Rigui Zhou, Jin Liu (2023) Adaptive graph convolutional subspace clustering, <i><b>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’23)</b></i>, Vancouver, Canda, pp. xx-xx. (Acceptance Rates: 2360/9155=25.8%) </li></ul>
+<ul> <li> <b>Lai Wei</b>, Zhengwei Chen, Jun Yin, Changming Zhu,Rigui Zhou, Jin Liu (2023) Adaptive graph convolutional subspace clustering, <i><b>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’23)</b></i>, Vancouver, Canda, pp. xx-xx. (Acceptance Rates: 2360/9155=25.8%)  <<a href="https://github.com/weilyshmtu/AGCSC">code</a>></li></ul>
 
 ### 2022
 
-<ul> <li> <b>Lai Wei</b>, Shiteng Liu, Rigui Zhou, Changming Zhu (2022) Learning idempotent representation for subspace clustering, <i><b>submitted to IEEE Transactions on Knowledge and Data Engineering. (Minor Revision)</b></i> </li></ul>
+<ul> <li> <b>Lai Wei</b>, Shiteng Liu, Rigui Zhou, Changming Zhu (2022) Learning idempotent representation for subspace clustering, <i><b>submitted to IEEE Transactions on Knowledge and Data Engineering. (Minor Revision) <<a href="https://github.com/weilyshmtu/Learning-idempotent-representation-for-subspace-segmentation">code</a>></b></i> </li></ul>
 
 <ul> <li> Jie Guo, <b>Lai Wei<sup>&dagger;</sup></b> (2022) Latent block diagonal representation for subspace clustering, <i><b>Pattern Analysis and Applications</b></i>, <<a href="https://doi.org/10.1007/s10044-022-01101-3">link</a>>.</li></ul>
 
