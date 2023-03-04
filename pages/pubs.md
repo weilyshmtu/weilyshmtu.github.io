@@ -6,6 +6,8 @@ title: Lai Wei's publications
 
 &dagger;: Corresponding author.
 
+### 2023
+<ul> <li> <b>Lai Wei</b>, Zhengwei Chen, Jun Yin, Changming Zhu,Rigui Zhou, Jin Liu (2023) Adaptive graph convolutional subspace clustering, <i><b>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’23)</b></i>, Vancouver, Canda, pp. xx-xx. (Acceptance Rates: 2360/9155=25.8%) </li></ul>
 
 ### 2022
 
