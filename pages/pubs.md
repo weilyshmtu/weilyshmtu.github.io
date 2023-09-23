@@ -11,9 +11,9 @@ title: Lai Wei's publications
 
 <ul> <li> <b>Lai Wei</b>, Zhengwei Chen, Jun Yin, Changming Zhu,Rigui Zhou, Jin Liu (2023) Adaptive graph convolutional subspace clustering, <i><b>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’23)</b></i>, Vancouver, Canda, pp. 6262-6271. (Acceptance Rates: 2360/9155=25.8%)  <<a href="https://github.com/weilyshmtu/AGCSC">code</a>></li></ul>
 
-### 2022
-<ul> <li> Jie Guo, <b>Lai Wei<sup>&dagger;</sup></b> (2022) Latent block diagonal representation for subspace clustering, <i><b>Pattern Analysis and Applications</b></i>,  26, 333–342， <<a href="https://doi.org/10.1007/s10044-022-01101-3">link</a>>.</li></ul>
+<ul> <li> Jie Guo, <b>Lai Wei<sup>&dagger;</sup></b> (2023) Latent block diagonal representation for subspace clustering, <i><b>Pattern Analysis and Applications</b></i>,  26, 333–342， <<a href="https://doi.org/10.1007/s10044-022-01101-3">link</a>>.</li></ul>
 
+### 2022
 <ul> <li> <b>Lai Wei</b>, Fanfan Zhang, Zhengwei Chen, Rigui Zhou, Changming Zhu (2022) Subspace clustering via adaptive least square regression with smooth affinities, <i><b>Knowledge-Based Systems</b></i>, 239, 5 March 2022, 107950.<<a href="https://doi.org/10.1016/j.knosys.2021.107950">link</a>>.</li></ul>
 
 <ul> <li> Changming Zhu, Dujuan Cao, Shuaiping Guo, Rigui Zhou, <b>Lai Wei</b>, Yilin Dong, Duoqian Miao (2022) Weak-label-based global and local multi-view multi-label learning with three-way clustering, <i><b>International Journal of Machine Learning and Cybernetics</b></i>, 13(5): 1337-1354.</li></ul>
