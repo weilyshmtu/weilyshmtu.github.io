@@ -13,6 +13,8 @@ title: Lai Wei's publications
 
 <ul> <li> Jie Guo, <b>Lai Wei<sup>&dagger;</sup></b> (2023) Latent block diagonal representation for subspace clustering, <i><b>Pattern Analysis and Applications</b></i>,  26, 333–342， <<a href="https://doi.org/10.1007/s10044-022-01101-3">link</a>>.</li></ul>
 
+<ul> <li> <b>Lai Wei</b>, Shiteng Liu (2023) Cost-sensitive sparse subset selection, <i><b>International Journal of Machine Learning and Cybernetics</b></i>, <<a href="https://10.1007/s13042-023-01979-3">link</a>>.</li></ul>
+
 ### 2022
 <ul> <li> <b>Lai Wei</b>, Fanfan Zhang, Zhengwei Chen, Rigui Zhou, Changming Zhu (2022) Subspace clustering via adaptive least square regression with smooth affinities, <i><b>Knowledge-Based Systems</b></i>, 239, 5 March 2022, 107950.<<a href="https://doi.org/10.1016/j.knosys.2021.107950">link</a>>.</li></ul>
 
