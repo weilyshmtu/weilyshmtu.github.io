@@ -7,6 +7,9 @@ title: Lai Wei' Software
 
 **IDR**(Idempotent Representation): A Novel Spectral-type Subspace Clustering Algorithm Which Can Find A Reconstruction Coefficient Matrix Approximating A Normalized Membership Matrix ([Github](https://github.com/weilyshmtu/Learning-idempotent-representation-for-subspace-segmentation)) 
 
+
+**AGCSC** (Adaptive Graph Convolutional Subspace Clustering): A Subspace Clustering Algorithm Which Devises An Adaptive Graph Convolution By Using the Required Coefficient Matrices ([Github](https://github.com/weilyshmtu/AGCSC)) 
+
 <!--
 ### Single-cell RNA-seq
 
