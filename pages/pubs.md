@@ -26,7 +26,7 @@ title: Lai Wei's publications
 
 <ul> <li> Jie Guo, <b>Lai Wei<sup>&dagger;</sup></b>, Latent block diagonal representation for subspace clustering, <i><b>Pattern Analysis and Applications</b></i>, 2023, 26, 333-342, <<a href="https://doi.org/10.1007/s10044-022-01101-3">link</a>>.</li></ul>
 
-<ul> <li>Changming Zhu, Jiyun Zhao, Shizhe Hu, Yilin Dong, Lei Cao, Fan Zhou, Yuhu Shi, <b>Lai Wei</b>, Rigui Zhou, A simple multiple-fold correlation-based multi-view multi-label learning. Neural Computing and Applications, 2023, 35(14): 10407-10420. </li></ul>
+<ul> <li>Changming Zhu, Jiyun Zhao, Shizhe Hu, Yilin Dong, Lei Cao, Fan Zhou, Yuhu Shi, <b>Lai Wei</b>, Rigui Zhou, A simple multiple-fold correlation-based multi-view multi-label learning, <i><b>Neural Computing and Applications</b></i>, 2023, 35(14): 10407-10420. </li></ul>
 
 
 ### 2022
@@ -66,7 +66,7 @@ title: Lai Wei's publications
 
 <ul> <li>Changming Zhu, Zhe Wang, Rigui Zhou, <b>Lai Wei</b>, Xiafen Zhang, Yi Ding (2019) Semi-supervised One-pass Multi-view Learning, <i><b>Neural Computing and Applications</b></i>, 31(11): 8117-8134.</li></ul>
 
-<ul> <li>Changming Zhu, Duoqian Miao, Rigui Zhou, <b>Lai Wei</b>, Improved Multi-view Multi-label Learning with Incomplete Views and Labels. ICDM Workshops 2019: 689-696.</li></ul>
+<ul> <li>Changming Zhu, Duoqian Miao, Rigui Zhou, <b>Lai Wei</b>, Improved Multi-view Multi-label Learning with Incomplete Views and Labels, <i><b>ICDM Workshops</b></i>, 2019: 689-696.</li></ul>
 
 ### 2018
 <ul> <li> <b>Lai Wei</b>, Xiaofeng Wang, Aihua Wu, Rigui Zhou, Changming Zhu, Robust Subspace Segmentation by Self-representation Constrained Low-rank Representation, <i><b>Neural Processing Letters</b></i>, 2018, 48(3): 1671-1691.</li></ul>
@@ -84,7 +84,7 @@ title: Lai Wei's publications
 <ul> <li>Jun Yin, Weiming Zeng, <b>Lai Wei</b>, Optimal feature extraction methods for classification methods and their applications to biometric recognition. <i><b>Knowledge-Based Systems</b></i>, 2016, 99: 112-122.</li></ul>
 
 <ul> <li>Jun Yin, <b>Lai Wei</b>, Miao Song, Weiming Zeng, Optimized projection for Collaborative Representation based Classification and its applications to face recognition. <i><b>Pattern Recognition Letters</b></i>, 2016, 73: 83-90.</li></ul>
-</li></ul>
+
 
 ### 2015
 <ul> <li> <b>Lai Wei</b>, Auhua Wu, Jun Yin, Latent Space Robust Subspace Segmentation Based on Low-rank and Locality Constraints, <i><b>Expert Systems with Applications</b></i>, 2015, 42(19): 6598-6608.</li></ul>
