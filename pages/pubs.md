@@ -81,9 +81,9 @@ title: Lai Wei's publications
 ### 2016
 <ul> <li> <b>Lai Wei</b>, Xiaofeng Wang, Jun Yin, Auhua Wu, Spectral Clustering Steered Low-rank Representation for Subspace Segmentation, <i><b>Journal of Visual Communication and Image Representation</b></i>, 2016, 38: 386-395.</li></ul>
 
-<ul> <li>Jun Yin, Weiming Zeng, <b>Lai Wei</b>, Optimal feature extraction methods for classification methods and their applications to biometric recognition. <i><b>Knowledge-Based Systems</b></i>, 2016, 99: 112-122.
+<ul> <li>Jun Yin, Weiming Zeng, <b>Lai Wei</b>, Optimal feature extraction methods for classification methods and their applications to biometric recognition. <i><b>Knowledge-Based Systems</b></i>, 2016, 99: 112-122.</li></ul>
 
-<ul> <li>Jun Yin, <b>Lai Wei</b>, Miao Song, Weiming Zeng, Optimized projection for Collaborative Representation based Classification and its applications to face recognition. <i><b>Pattern Recognition Letters</b></i>, 2016, 73: 83-90.
+<ul> <li>Jun Yin, <b>Lai Wei</b>, Miao Song, Weiming Zeng, Optimized projection for Collaborative Representation based Classification and its applications to face recognition. <i><b>Pattern Recognition Letters</b></i>, 2016, 73: 83-90.</li></ul>
 </li></ul>
 
 ### 2015
@@ -96,7 +96,7 @@ title: Lai Wei's publications
 
 <ul> <li> <b>Lai Wei</b>, Feifei Xu, Feature Extraction by Integrated Global and Local Discriminator, <i><b>Journal of Computational Information Systems</b></i>, 2014, 10(7): 2719-2726.</li></ul>
 
-<ul> <li> <b>Lai Wei</b>, Optimal subspace learning for sparse representation based classifier via discriminative principal subspaces alignment, <i><b>The 9th International Conference on Rough Sets and Knowledge Technology (RSKT’14)</b></i>,2014.10.25-2014.10.26. </li></ul>
+<ul> <li> <b>Lai Wei</b>, Optimal subspace learning for sparse representation based classifier via discriminative principal subspaces alignment, <i><b>The 9th International Conference on Rough Sets and Knowledge Technology (RSKT'14)</b></i>,2014.10.25-2014.10.26. </li></ul>
 
 ### 2012
 <ul> <li> <b>Lai Wei</b>, Feifei Xu, Local CCA Alignment and Its Applications, <i><b>Neurocomputing</b></i>, 2012, 89(15): 78-88.</li></ul>
@@ -105,12 +105,12 @@ title: Lai Wei's publications
 
 <ul> <li> Duoqian Miao, Yiyu Yao,Feifei Xu <b>Lai Wei</b>, Set-Theoretic Formulation of Granular Computing, <i><b>Chinese Journal of Computers</b></i>, 2012, 35(2): 351-363. (In Chinese)</li></ul>
 
-<ul> <li> <b>Lai Wei</b>, Feifei Xu, Adaptively weighted subpattern-based sparse preserving projection for face recognition, <i><b>In: Proceeding of The 9th International Conference on Fuzzy Systems and Knowledge Discovery (FSKD’12)</b></i>, 29-31 May, 2012, 1394-1403.</li></ul>
+<ul> <li> <b>Lai Wei</b>, Feifei Xu, Adaptively weighted subpattern-based sparse preserving projection for face recognition, <i><b>In: Proceeding of The 9th International Conference on Fuzzy Systems and Knowledge Discovery (FSKD'12)</b></i>, 29-31 May, 2012, 1394-1403.</li></ul>
 
 <ul> <li> <b>Lai Wei</b>, Feifei Xu, Improved KL (K-means-Laplacian) clustering with sparse graphs, <i><b>In: Proceeding of The Second International Conference on Multimedia and Signal Processing (CMSP'12)</b></i> , Shanghai, China, December 7-9, 2012, 506-513.</li></ul>
 
 ### 2011
-<ul> <li> <b>Lai Wei</b>, Weiming Zeng, Feifei Xu, Adaptively weighted subpattern-based isometric projection for face recognition, <i><b>In: Proceeding of The Third International Conference on Artificial Intelligence and Computational Intelligence (AICI’11)</b></i>, Taiyuan, China, September 24-25, 2011, 554-561.</li></ul>
+<ul> <li> <b>Lai Wei</b>, Weiming Zeng, Feifei Xu, Adaptively weighted subpattern-based isometric projection for face recognition, <i><b>In: Proceeding of The Third International Conference on Artificial Intelligence and Computational Intelligence (AICI'11)</b></i>, Taiyuan, China, September 24-25, 2011, 554-561.</li></ul>
 
 
 ### Before 2010
