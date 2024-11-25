@@ -11,22 +11,22 @@ title: Lai Wei's publications
 
 <ul> <li> <b>Lai Wei</b>, Shiteng Liu, Cost-sensitive sparse subset selection, <i><b>International Journal of Machine Learning and Cybernetics</b></i>, 2024, 15(4): 1503-1515. <<a href="https://10.1007/s13042-023-01979-3">link</a>>.</li></ul>
 
-<ul> <li> <b>Lai Wei</b>, Shanshan Song, Multi-view Subspace Clustering via An Adaptive Consensus Graph Filter, <i><b> International Conference on Multimedia Retrieval (ICMR’24)</b></i>, Phuket, Thailand, 2024, pp. 776-784. <<a href="https://doi.org/10.1145/3652583.3658009">link</a>></li></ul>
+<ul> <li> <b>Lai Wei</b>, Shanshan Song, Multi-view Subspace Clustering via An Adaptive Consensus Graph Filter, <i><b> International Conference on Multimedia Retrieval (ICMR'24)</b></i>, Phuket, Thailand, 2024, pp. 776-784. <<a href="https://doi.org/10.1145/3652583.3658009">link</a>></li></ul>
 
-<ul> <li> <b>Lai Wei</b>, Mingyuan Xi, Subspace Clustering with A Hybrid Adaptive Graph Filter, <i><b> International Conference on Multimedia Retrieval (ICMR’24)</b></i>, Phuket, Thailand, 2024, pp. 1070-1078. <<a href="https://doi.org/10.1145/3652583.3658042">link</a>></li></ul>
+<ul> <li> <b>Lai Wei</b>, Mingyuan Xi, Subspace Clustering with A Hybrid Adaptive Graph Filter, <i><b> International Conference on Multimedia Retrieval (ICMR'24)</b></i>, Phuket, Thailand, 2024, pp. 1070-1078. <<a href="https://doi.org/10.1145/3652583.3658042">link</a>></li></ul>
 
-<ul> <li>Hai Lin, Jin Liu, Xingye Li, <b>Lai Wei</b>, Yuxin Liu, Bing Han, Zhongdai Wu, DCEA: DETR With Concentrated Deformable Attention for End-to-End Ship Detection in SAR Images, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024, 17: 17292-17307.</li></ul>
+<ul> <li>Hai Lin, Jin Liu, Xingye Li, <b>Lai Wei</b>, Yuxin Liu, Bing Han, Zhongdai Wu, DCEA: DETR With Concentrated Deformable Attention for End-to-End Ship Detection in SAR Images, <i><b> IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</b></i>, 2024, 17: 17292-17307.</li></ul>
 
-<ul> <li> Jun Yin, Shiliang Sun, <b>Lai Wei</b>, Peng Wang, Discriminatively fuzzy multi-view k-means clustering with local structure preserving, <i><b> Proceedings of the AAAI Conference on Artificial Intelligence (AAAI’24)</b></i>, Vancouver, Canada, 2024, pp.16478-16485.</li></ul>
+<ul> <li> Jun Yin, Shiliang Sun, <b>Lai Wei</b>, Peng Wang, Discriminatively fuzzy multi-view k-means clustering with local structure preserving, <i><b> Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'24)</b></i>, Vancouver, Canada, 2024, pp.16478-16485.</li></ul>
 
 
 ### 2023
 
-<ul> <li> <b>Lai Wei</b>, Zhengwei Chen, Jun Yin, Changming Zhu, Rigui Zhou, Jin Liu, Adaptive graph convolutional subspace clustering, <i><b>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’23)</b></i>, Vancouver, Canda, June, 2023, pp. 6262-6271. (Acceptance Rates: 2360/9155=25.8%)  <<a href="https://github.com/weilyshmtu/AGCSC">code</a>></li></ul>
+<ul> <li> <b>Lai Wei</b>, Zhengwei Chen, Jun Yin, Changming Zhu, Rigui Zhou, Jin Liu, Adaptive graph convolutional subspace clustering, <i><b>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23)</b></i>, Vancouver, Canda, June, 2023, pp. 6262-6271. (Acceptance Rates: 2360/9155=25.8%)  <<a href="https://github.com/weilyshmtu/AGCSC">code</a>></li></ul>
 
-<ul> <li> Jie Guo, <b>Lai Wei<sup>&dagger;</sup></b>, Latent block diagonal representation for subspace clustering, <i><b>Pattern Analysis and Applications</b></i>, 2023, 26, 333–342， <<a href="https://doi.org/10.1007/s10044-022-01101-3">link</a>>.</li></ul>
+<ul> <li> Jie Guo, <b>Lai Wei<sup>&dagger;</sup></b>, Latent block diagonal representation for subspace clustering, <i><b>Pattern Analysis and Applications</b></i>, 2023, 26, 333-342, <<a href="https://doi.org/10.1007/s10044-022-01101-3">link</a>>.</li></ul>
 
-<ul> <li>Changming Zhu, Jiyun Zhao, Shizhe Hu, Yilin Dong, Lei Cao, Fan Zhou, Yuhu Shi, <b>Lai Wei</b>, Rigui Zhou, A simple multiple-fold correlation-based multi-view multi-label learning. Neural Comput. Appl. 2023, 35(14): 10407-10420. </li></ul>
+<ul> <li>Changming Zhu, Jiyun Zhao, Shizhe Hu, Yilin Dong, Lei Cao, Fan Zhou, Yuhu Shi, <b>Lai Wei</b>, Rigui Zhou, A simple multiple-fold correlation-based multi-view multi-label learning. Neural Computing and Applications, 2023, 35(14): 10407-10420. </li></ul>
 
 
 ### 2022
@@ -107,7 +107,7 @@ title: Lai Wei's publications
 
 <ul> <li> <b>Lai Wei</b>, Feifei Xu, Adaptively weighted subpattern-based sparse preserving projection for face recognition, <i><b>In: Proceeding of The 9th International Conference on Fuzzy Systems and Knowledge Discovery (FSKD’12)</b></i>, 29-31 May, 2012, 1394-1403.</li></ul>
 
-<ul> <li> <b>Lai Wei</b>, Feifei Xu, Improved KL (K-means-Laplacian) clustering with sparse graphs, <i><b>In: Proceeding of The Second International Conference on Multimedia and Signal Processing (CMSP’12)</b></i> , Shanghai, China, December 7-9, 2012, 506-513.</li></ul>
+<ul> <li> <b>Lai Wei</b>, Feifei Xu, Improved KL (K-means-Laplacian) clustering with sparse graphs, <i><b>In: Proceeding of The Second International Conference on Multimedia and Signal Processing (CMSP'12)</b></i> , Shanghai, China, December 7-9, 2012, 506-513.</li></ul>
 
 ### 2011
 <ul> <li> <b>Lai Wei</b>, Weiming Zeng, Feifei Xu, Adaptively weighted subpattern-based isometric projection for face recognition, <i><b>In: Proceeding of The Third International Conference on Artificial Intelligence and Computational Intelligence (AICI’11)</b></i>, Taiyuan, China, September 24-25, 2011, 554-561.</li></ul>
@@ -118,9 +118,9 @@ title: Lai Wei's publications
 
 <ul> <li> <b>Lai Wei</b>, Shoujue Wang, Semi-supervised Discriminant Analysis Based on Manifold Distance, <i><b>Journal of Software</b></i>, 2010, 21(10): 2445-2453. (In Chinese)</li></ul>
 
-<ul> <li> <b>Lai Wei</b>, Weiming Zeng, Hong Wang, K-means clustering with manifold, <i><b>In: Proceeding of The Seventh International Conference on Fuzzy Systems and Knowledge Discovery (FSKD’10)</b></i>, 10-12 Aug. 2010, Yantai, Shandong, 2095-2099.</li></ul>
+<ul> <li> <b>Lai Wei</b>, Weiming Zeng, Hong Wang, K-means clustering with manifold, <i><b>In: Proceeding of The Seventh International Conference on Fuzzy Systems and Knowledge Discovery (FSKD'10)</b></i>, 10-12 Aug. 2010, Yantai, Shandong, 2095-2099.</li></ul>
 
-<ul> <li> <b>Lai Wei</b>, Path-based relative similarity spectral clustering, <i><b>In: Proceeding of The Second Global Congress on Intelligent Systems (GCIS’10)</b></i>, 16-17 December 2010, Wuhan, China, 115-118.</li></ul>
+<ul> <li> <b>Lai Wei</b>, Path-based relative similarity spectral clustering, <i><b>In: Proceeding of The Second Global Congress on Intelligent Systems (GCIS'10)</b></i>, 16-17 December 2010, Wuhan, China, 115-118.</li></ul>
 
 <ul> <li> <b>Lai Wei</b>, Shoujue Wang, Feifei Xu, Neighborhood Margin Fisher Discriminant Analysis, <i><b>Journal of Electronics & Information Technology</b></i>, 2009, 31(3): 509-512. (In Chinese)</li></ul>
 
@@ -133,6 +133,6 @@ title: Lai Wei's publications
 
 <ul> <li> <b>Lai Wei</b>, Duoqian Miao, Feifei Xu, Fuchun Xia, Researches on A Covering Rough Fuzzy Set Model, <i><b>Journal of Computer Research and Development</b></i>, 2006, 43(10): 1719-1723. (In Chinese)</li></ul>
 
-<ul> <li> <b>Lai Wei</b>, Duoqian Miao, Application of granular computing in knowledge reduction, <i><b>In: Proceeding of The First International Conference on Rough Sets and Knowledge Technology (RSKT’06)</b></i>, Chongqing, China, July 24-26, 2006, (4062): 357-362.</li></ul>
+<ul> <li> <b>Lai Wei</b>, Duoqian Miao, Application of granular computing in knowledge reduction, <i><b>In: Proceeding of The First International Conference on Rough Sets and Knowledge Technology (RSKT'06)</b></i>, Chongqing, China, July 24-26, 2006, (4062): 357-362.</li></ul>
 
 
