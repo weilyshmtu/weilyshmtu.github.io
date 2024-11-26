@@ -7,7 +7,7 @@ title: Lai Wei's publications
 &dagger;: Corresponding author.
 
 ### 2024
-<ul> <li> <b>Lai Wei</b>, Shiteng Liu, Rigui Zhou, Changming Zhu, Learning idempotent representation for subspace clustering, <i><b>IEEE Transactions on Knowledge and Data Engineering, 2024, 36(3): 1183-1197.</b></i> <<a href="https://doi.org/10.1109/TKDE.2023.3303343">link</a>> <<a href="https://github.com/weilyshmtu/Learning-idempotent-representation-for-subspace-segmentation">code</a>> </li></ul>
+<ul> <li> <b>Lai Wei</b>, Shiteng Liu, Rigui Zhou, Changming Zhu, Learning idempotent representation for subspace clustering, <i><b>IEEE Transactions on Knowledge and Data Engineering</b></i>, 2024, 36(3): 1183-1197. <<a href="https://doi.org/10.1109/TKDE.2023.3303343">link</a>> <<a href="https://github.com/weilyshmtu/Learning-idempotent-representation-for-subspace-segmentation">code</a>> </li></ul>
 
 <ul> <li> <b>Lai Wei</b>, Shiteng Liu, Cost-sensitive sparse subset selection, <i><b>International Journal of Machine Learning and Cybernetics</b></i>, 2024, 15(4): 1503-1515. <<a href="https://10.1007/s13042-023-01979-3">link</a>>.</li></ul>
 
