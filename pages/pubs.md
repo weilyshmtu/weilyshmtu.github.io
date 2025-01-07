@@ -7,7 +7,7 @@ title: Lai Wei's publications
 &dagger;: Corresponding author.
 
 ### 2025
-<ul> <li> Xiliang Zhang, Jin Liu, Chengcheng Chen, <b>Lai Wei</b>, Zhongdai Wu, Wenjuan Dai: Goal-driven long-term marine vessel trajectory prediction with a memory-enhanced network, Expert Systems and Applications, 2025, 263: 125715</li></ul>
+<ul> <li> Xiliang Zhang, Jin Liu, Chengcheng Chen, <b>Lai Wei</b>, Zhongdai Wu, Wenjuan Dai: Goal-driven long-term marine vessel trajectory prediction with a memory-enhanced network, <i><b>Expert Systems and Applications</b></i>, 2025, 263: 125715</li></ul>
 
 
 ### 2024
