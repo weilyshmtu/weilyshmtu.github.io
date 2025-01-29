@@ -19,10 +19,12 @@ title: Lai Wei's publications
 
 <ul> <li> <b>Lai Wei</b>, Mingyuan Xi, Subspace Clustering with A Hybrid Adaptive Graph Filter, <i><b> International Conference on Multimedia Retrieval (ICMR'24)</b></i>, Phuket, Thailand, 2024, pp. 1070-1078. <<a href="https://doi.org/10.1145/3652583.3658042">link</a>></li></ul>
 
-<ul> <li>Ying Liu, Jin Liu, Xingye Li, <b>Lai Wei</b>, Zhongdai Wu, Bing Han, Wenjuan Dai, Exploiting Discriminating Features for Fine-Grained Ship Detection in Optical Remote Sensing Images, <i><b> IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</b></i>, 2024, 17: 20098-20115.</li></ul>
+<ul> <li> Peizhu Gong, Jin Liu, Xiliang Zhang, Xingye Li, <b>Lai Wei</b>, Huihua He, Adaptive Multimodal Graph Integration Network for Multimodal Sentiment Analysis, <i><b>IEEE Transactions on Audio, Speech and Language Processing</b></i>, 2024, 33: 23-36.</li></ul>
+
+<ul> <li> Ying Liu, Jin Liu, Xingye Li, <b>Lai Wei</b>, Zhongdai Wu, Bing Han, Wenjuan Dai, Exploiting Discriminating Features for Fine-Grained Ship Detection in Optical Remote Sensing Images, <i><b> IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</b></i>, 2024, 17: 20098-20115.</li></ul>
 
 
-<ul> <li>Hai Lin, Jin Liu, Xingye Li, <b>Lai Wei</b>, Yuxin Liu, Bing Han, Zhongdai Wu, DCEA: DETR With Concentrated Deformable Attention for End-to-End Ship Detection in SAR Images, <i><b> IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</b></i>, 2024, 17: 17292-17307.</li></ul>
+<ul> <li> Hai Lin, Jin Liu, Xingye Li, <b>Lai Wei</b>, Yuxin Liu, Bing Han, Zhongdai Wu, DCEA: DETR With Concentrated Deformable Attention for End-to-End Ship Detection in SAR Images, <i><b> IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</b></i>, 2024, 17: 17292-17307.</li></ul>
 
 <ul> <li> Jun Yin, Shiliang Sun, <b>Lai Wei</b>, Peng Wang, Discriminatively fuzzy multi-view k-means clustering with local structure preserving, <i><b> Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'24)</b></i>, Vancouver, Canada, 2024, pp.16478-16485.</li></ul>
 
@@ -33,7 +35,7 @@ title: Lai Wei's publications
 
 <ul> <li> Jie Guo, <b>Lai Wei<sup>&dagger;</sup></b>, Latent block diagonal representation for subspace clustering, <i><b>Pattern Analysis and Applications</b></i>, 2023, 26, 333-342, <<a href="https://doi.org/10.1007/s10044-022-01101-3">link</a>>.</li></ul>
 
-<ul> <li>Changming Zhu, Jiyun Zhao, Shizhe Hu, Yilin Dong, Lei Cao, Fan Zhou, Yuhu Shi, <b>Lai Wei</b>, Rigui Zhou, A simple multiple-fold correlation-based multi-view multi-label learning, <i><b>Neural Computing and Applications</b></i>, 2023, 35(14): 10407-10420. </li></ul>
+<ul> <li> Changming Zhu, Jiyun Zhao, Shizhe Hu, Yilin Dong, Lei Cao, Fan Zhou, Yuhu Shi, <b>Lai Wei</b>, Rigui Zhou, A simple multiple-fold correlation-based multi-view multi-label learning, <i><b>Neural Computing and Applications</b></i>, 2023, 35(14): 10407-10420. </li></ul>
 
 
 ### 2022
