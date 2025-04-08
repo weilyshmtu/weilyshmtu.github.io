@@ -9,9 +9,9 @@ title: Lai Wei's publications
 ### 2025
 <ul> <li> <b>Lai Wei</b>, Kexin Li, Rigui Zhou, Jin Liu, Purely contrastive multi-view subspace clustering, <i><b>IEEE Transactions on Cybernetics</b></i>, 2025. <<a href="https://doi.org/10.1109/TCYB.2025.3554901">link</a>> </li></ul>
 
-<ul> <li> Longfei Hu, <b>Lai Wei<sup>&dagger;</sup></b>, Yeqing Lin, Decomposition dynamic multi-graph convolutional recurrent network for traffic forecasting, <i><b>Applied Intelligence</b></i>, 2025, 55(595): 1-17 </li></ul>
+<ul> <li> Longfei Hu, <b>Lai Wei<sup>&dagger;</sup></b>, Yeqing Lin, Decomposition dynamic multi-graph convolutional recurrent network for traffic forecasting, <i><b>Applied Intelligence</b></i>, 2025, 55(595): 1-17. </li></ul>
 
-<ul> <li> Yuehai Xu, <b>Lai Wei<sup>&dagger;</sup></b>, Junting Li, Xinyi Cheng, Shiyu Lu, Spatial-Temporal Multi-Scale Interactive Graph Convolutional Network for Traffic Flow Prediction, <i><b>International Joint Conference on Neural Networks (IJCNN'25) </b></i>, Rome, Italy, 30 Jun- 5 July, 2025 </li></ul>
+<ul> <li> Yuehai Xu, <b>Lai Wei<sup>&dagger;</sup></b>, Junting Li, Xinyi Cheng, Shiyu Lu, Spatial-Temporal Multi-Scale Interactive Graph Convolutional Network for Traffic Flow Prediction, <i><b>International Joint Conference on Neural Networks (IJCNN'25) </b></i>, Rome, Italy, 30 Jun- 5 July, 2025. </li></ul>
 
 <ul> <li> Xiliang Zhang, Jin Liu, Chengcheng Chen, <b>Lai Wei</b>, Zhongdai Wu, Wenjuan Dai, Goal-driven long-term marine vessel trajectory prediction with a memory-enhanced network, <i><b>Expert Systems and Applications</b></i>, 2025, 263: 125715.</li></ul>
 
