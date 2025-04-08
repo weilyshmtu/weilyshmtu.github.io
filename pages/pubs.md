@@ -7,11 +7,17 @@ title: Lai Wei's publications
 &dagger;: Corresponding author.
 
 ### 2025
+<ul> <li> <b>Lai Wei</b>, Kexin Li, Rigui Zhou, Jin Liu, Purely contrastive multi-view subspace clustering, <i><b>IEEE Transactions on Cybernetics</b></i>, 2025. <<a href="https://doi.org/10.1109/TCYB.2025.3554901">link</a>> </li></ul>
+
+<ul> <li> Longfei Hu, <b>Lai Wei<sup>&dagger;</sup></b>, Yeqing Lin, Decomposition dynamic multi-graph convolutional recurrent network for traffic forecasting, <i><b>Applied Intelligence</b></i>, 2025, 55(595): 1-17 </li></ul>
+
+<ul> <li> Yuehai Xu, <b>Lai Wei<sup>&dagger;</sup></b>, Junting Li, Xinyi Cheng, Shiyu Lu, Spatial-Temporal Multi-Scale Interactive Graph Convolutional Network for Traffic Flow Prediction, <i><b>International Joint Conference on Neural Networks (IJCNN'25) </b></i>, Rome, Italy, 30 Jun- 5 July, 2025 </li></ul>
+
 <ul> <li> Xiliang Zhang, Jin Liu, Chengcheng Chen, <b>Lai Wei</b>, Zhongdai Wu, Wenjuan Dai, Goal-driven long-term marine vessel trajectory prediction with a memory-enhanced network, <i><b>Expert Systems and Applications</b></i>, 2025, 263: 125715.</li></ul>
 
 
 ### 2024
-<ul> <li> <b>Lai Wei</b>, Shiteng Liu, Rigui Zhou, Changming Zhu, Learning idempotent representation for subspace clustering, <i><b>IEEE Transactions on Knowledge and Data Engineering</b></i>, 2024, 36(3): 1183-1197. <<a href="https://doi.org/10.1109/TKDE.2023.3303343">link</a>> <<a href="https://github.com/weilyshmtu/Learning-idempotent-representation-for-subspace-segmentation">code</a>> </li></ul>
+<ul> <li> <b>Lai Wei</b>, Shiteng Liu, Rigui Zhou, Changming Zhu, Jin Liu, Learning idempotent representation for subspace clustering, <i><b>IEEE Transactions on Knowledge and Data Engineering</b></i>, 2024, 36(3): 1183-1197. <<a href="https://doi.org/10.1109/TKDE.2023.3303343">link</a>> <<a href="https://github.com/weilyshmtu/Learning-idempotent-representation-for-subspace-segmentation">code</a>> </li></ul>
 
 <ul> <li> <b>Lai Wei</b>, Shiteng Liu, Cost-sensitive sparse subset selection, <i><b>International Journal of Machine Learning and Cybernetics</b></i>, 2024, 15(4): 1503-1515. <<a href="https://10.1007/s13042-023-01979-3">link</a>>.</li></ul>
 
