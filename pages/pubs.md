@@ -6,8 +6,14 @@ title: Lai Wei's publications
 
 &dagger;: Corresponding author.
 
+
+### 2026
+<ul> <li> Peizhu Gong, Jin Liu, Xiliang Zhang, Xingye Lin, <b>Lai Wei</b>, Huihua He, Towards robust sentiment analysis with multimodal interaction graph and hybrid contrastive learning, <i><b>Pattern Recognition</b></i>, 2026, 169: 11807.</li></ul>
+
+
 ### 2025
 <ul> <li> <b>Lai Wei</b>, Kexin Li, Rigui Zhou, Jin Liu, Purely contrastive multi-view subspace clustering, <i><b>IEEE Transactions on Cybernetics</b></i>, 2025. <<a href="https://doi.org/10.1109/TCYB.2025.3554901">link</a>> </li></ul>
+
 
 <ul> <li> Yuehai Xu, <b>Lai Wei<sup>&dagger;</sup></b>, Lu Feng, A spatial-temporal trend-event decoupling dual-channel framework for traffic flow prediction, <i><b>Expert Systems with Applications</b></i>, 2025, 128107. </li></ul>
 
