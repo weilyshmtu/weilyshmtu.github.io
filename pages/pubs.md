@@ -14,13 +14,13 @@ title: Lai Wei's publications
 ### 2025
 <ul> <li> <b>Lai Wei</b>, Kexin Li, Rigui Zhou, Jin Liu, Purely contrastive multi-view subspace clustering, <i><b>IEEE Transactions on Cybernetics</b></i>, 2025. <<a href="https://doi.org/10.1109/TCYB.2025.3554901">link</a>> </li></ul>
 
-<ul> <li> Yuehai Xu, <b>Lai Wei<sup>&dagger;</sup></b>, Lu Feng, A spatial-temporal trend-event decoupling dual-channel framework for traffic flow prediction, <i><b>Expert Systems with Applications</b></i>, 2025, 128107, <<a href="https://doi.org/10.1016/j.eswa.2025.128107">link</a>>. </li></ul>
+<ul> <li> Yuehai Xu, <b>Lai Wei<sup>&dagger;</sup></b>, Lu Feng, A spatial-temporal trend-event decoupling dual-channel framework for traffic flow prediction, <i><b>Expert Systems with Applications</b></i>, 2025, 128107. <<a href="https://doi.org/10.1016/j.eswa.2025.128107">link</a>> </li></ul>
 
-<ul> <li> Longfei Hu, <b>Lai Wei<sup>&dagger;</sup></b>, Yeqing Lin, Decomposition dynamic multi-graph convolutional recurrent network for traffic forecasting, <i><b>Applied Intelligence</b></i>, 2025, 55(595): 1-17, <<a href="https://doi.org/10.1007/s10489-025-06503-4">link</a>>. </li></ul>
+<ul> <li> Longfei Hu, <b>Lai Wei<sup>&dagger;</sup></b>, Yeqing Lin, Decomposition dynamic multi-graph convolutional recurrent network for traffic forecasting, <i><b>Applied Intelligence</b></i>, 2025, 55(595): 1-17. <<a href="https://doi.org/10.1007/s10489-025-06503-4">link</a>> </li></ul>
 
-<ul> <li> Longfei Hu, <b>Lai Wei<sup>&dagger;</sup></b>, Yeqing Lin, Spatio-temporal Fourier dynamic graph convolution network for traffic forecasting, <i><b>International Journal of Machine Learning and Cybernetics</b></i>, 2025, <<a href="https://doi.org/10.1007/s13042-025-02757-z">link</a>>. </li></ul>
+<ul> <li> Longfei Hu, <b>Lai Wei<sup>&dagger;</sup></b>, Yeqing Lin, Spatio-temporal Fourier dynamic graph convolution network for traffic forecasting, <i><b>International Journal of Machine Learning and Cybernetics</b></i>, 2025. <<a href="https://doi.org/10.1007/s13042-025-02757-z">link</a>> </li></ul>
 
-<ul> <li> Zheng Wu, <b>Lai Wei<sup>&dagger;</sup></b>, Temporal feature-enhanced graph Convolutional Recurrent Network for traffic forecasting, <i><b>Cluster Computing</b></i>, 2025, 28(625) <<a href="https://doi.org/10.1007/s10586-025-05313-0">link</a>>. </li></ul>
+<ul> <li> Zheng Wu, <b>Lai Wei<sup>&dagger;</sup></b>, Temporal feature-enhanced graph Convolutional Recurrent Network for traffic forecasting, <i><b>Cluster Computing</b></i>, 2025, 28(625). <<a href="https://doi.org/10.1007/s10586-025-05313-0">link</a>> </li></ul>
 
 <ul> <li> Xiliang Zhang, Jin Liu, Chengcheng Chen, <b>Lai Wei</b>, Zhongdai Wu, Wenjuan Dai, Goal-driven long-term marine vessel trajectory prediction with a memory-enhanced network, <i><b>Expert Systems and Applications</b></i>, 2025, 263: 125715.</li></ul>
 
