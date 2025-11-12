@@ -8,6 +8,8 @@ title: Lai Wei's publications
 
 
 ### 2026
+<ul> <li> <b>Lai Wei</b>, Jin Liu, Clustering with self-learned graph regression, <i><b>The 40th Annual AAAI Conference on Artificial Intelligence (AAAI' 26)</b></i>, Singapore, January, 2026. (Acceptance Rates: 4167/236805=17.6%)  </li></ul>
+
 <ul> <li> Peizhu Gong, Jin Liu, Xiliang Zhang, Xingye Lin, <b>Lai Wei</b>, Huihua He, Towards robust sentiment analysis with multimodal interaction graph and hybrid contrastive learning, <i><b>Pattern Recognition</b></i>, 2026, 169: 11807.</li></ul>
 
 
@@ -24,7 +26,7 @@ title: Lai Wei's publications
 
 <ul> <li> Xiliang Zhang, Jin Liu, Chengcheng Chen, <b>Lai Wei</b>, Zhongdai Wu, Wenjuan Dai, Goal-driven long-term marine vessel trajectory prediction with a memory-enhanced network, <i><b>Expert Systems and Applications</b></i>, 2025, 263: 125715.</li></ul>
 
-<ul> <li> Yuehai Xu, <b>Lai Wei<sup>&dagger;</sup></b>, Junting Li, Xinyi Cheng, Shiyu Lu, Spatial-Temporal Multi-Scale Interactive Graph Convolutional Network for Traffic Flow Prediction, <i><b>International Joint Conference on Neural Networks (IJCNN'25) </b></i>, Rome, Italy, 30 Jun- 5 July, 2025. </li></ul>
+<ul> <li> Yuehai Xu, <b>Lai Wei<sup>&dagger;</sup></b>, Junting Li, Xinyi Cheng, Shiyu Lu, Spatial-Temporal Multi-Scale Interactive Graph Convolutional Network for Traffic Flow Prediction, <i><b>International Joint Conference on Neural Networks (IJCNN'25)</b></i>, Rome, Italy, 30 Jun - 5 July, 2025. </li></ul>
 
 
 ### 2024
