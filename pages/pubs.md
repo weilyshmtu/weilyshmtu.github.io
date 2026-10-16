@@ -10,6 +10,11 @@ title: Lai Wei's publications
 ### 2026
 <ul> <li> <b>Lai Wei</b>, Jin Liu, Clustering with self-learned graph regression, <i><b>The 40th Annual AAAI Conference on Artificial Intelligence (AAAI' 26)</b></i>, Singapore, January, 2026. (Acceptance Rates: 4167/236805=17.6%)  </li></ul>
 
+<ul> <li> Junting Li, <b>Lai Wei<sup>&dagger;</sup></b>, Yuehai Xu, A spatial-temporal and topological fusion framework for trajectory similarity computation, <i><b>Applied Intelligence</b></i>, 2026, 56(15): 426. </li></ul>
+
+<ul> <li> Yeqing Lin, <b>Lai Wei<sup>&dagger;</sup></b>, Longfei Hu, Hypergraph-based multi-scale spatio-temporal graph convolution network for traffic forecasting, <i><b>International Journal of Machine Learning and Cybernetics</b></i>, 2026, 17(4): 162. </li></ul>
+
+
 <ul> <li> Peizhu Gong, Jin Liu, Xiliang Zhang, Xingye Lin, <b>Lai Wei</b>, Huihua He, Towards robust sentiment analysis with multimodal interaction graph and hybrid contrastive learning, <i><b>Pattern Recognition</b></i>, 2026, 169: 11807.</li></ul>
 
 
